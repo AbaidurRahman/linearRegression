@@ -13,7 +13,7 @@ The project utilizes historical stock data from ['Quandl']. The dataset includes
 4. **Model Evaluation**: Assessing the model's performance using metrics like Mean Squared Error (MSE) and R-squared.
 
 ## Results
-The model achieved a **MSE of X** and an **R-squared value of Y**, indicating [interpretation of results].
+The Model shows the valus of stock prices (forecast_set) for days (forecast_out). The ggplot graph has been displayed in order to understand the shifting of values by the day.
 
 ## Usage
 1. Clone the repository.
